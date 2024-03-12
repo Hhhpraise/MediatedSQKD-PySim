@@ -38,7 +38,7 @@ num_qubits: The number of qubits to be used in the protocol.
 ### Requirements
 Python 3.x
 
-###Disclaimer
+### Disclaimer
 This code is a simulation and should not be used for actual secure communication purposes without proper validation and security considerations.
 
 
